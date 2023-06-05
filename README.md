@@ -1,4 +1,4 @@
-# **Discord IP Logger**
+# **Discord Image IP Logger**
 A Discord IP Logger tool easy to use.
 
 ## How to setup and use
